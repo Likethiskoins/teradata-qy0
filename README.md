@@ -1,0 +1,1 @@
+# teradata-qy0
